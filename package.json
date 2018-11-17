@@ -1,0 +1,31 @@
+{
+  "name": "ts-design-pattern",
+  "version": "1.0.0",
+  "description": "ts design pattern",
+  "main": "demo.ts",
+  "scripts": {
+    "tsnode": "ts-node",
+    "test": "ts-node",
+    "compile": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanyu90221/tsDesignPatternDemo.git"
+  },
+  "keywords": [
+    "typescript",
+    "design",
+    "pattern"
+  ],
+  "author": "json",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuanyu90221/tsDesignPatternDemo/issues"
+  },
+  "homepage": "https://github.com/yuanyu90221/tsDesignPatternDemo#readme",
+  "devDependencies": {
+    "ts-node": "^7.0.1",
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.1.6"
+  }
+}
